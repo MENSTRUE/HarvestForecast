@@ -1,0 +1,40 @@
+{
+  "local_kaggle_path": "/kaggle/input/datasets/wafabila/harvestforecast-dataset",
+  "accessed_utc": "2026-11-09T06:44:04.995062+00:00",
+  "files": [
+    {
+      "name": "df_yield_merged.csv",
+      "relative_path": "df_yield_merged.csv",
+      "bytes": 1290988,
+      "sha256": "0a2b4e025610b5e9337dfdc49efd76472edba71d406954a63bdf091b58752e6e"
+    },
+    {
+      "name": "yield.csv",
+      "relative_path": "yield.csv",
+      "bytes": 4042934,
+      "sha256": "ddd4855e82cc072433555c972fef6728a05b28f17651221aeb5aac9136ec358c"
+    },
+    {
+      "name": "rainfall.csv",
+      "relative_path": "rainfall.csv",
+      "bytes": 136712,
+      "sha256": "684df19bb1bdc27f389643758ad852f0cc247cb982bebf9cf4c0fb1e3797e4c4"
+    },
+    {
+      "name": "temp.csv",
+      "relative_path": "temp.csv",
+      "bytes": 1421414,
+      "sha256": "0635487775a8948dc6f8035750690dc1f6f988b7f2c15e113866e2c84df158ae"
+    },
+    {
+      "name": "pesticides.csv",
+      "relative_path": "pesticides.csv",
+      "bytes": 447677,
+      "sha256": "913fa4d98285a18eb4893210340c585010d2756019d2c6a0120ec86b39e21fca"
+    }
+  ],
+  "claimed_upstream_reference": "https://zenodo.org/records/18761663",
+  "upstream_url_verified_in_notebook": false,
+  "license_verified": false,
+  "note": "Upstream provenance reference is a lead from the collection notes, NOT proof of exact file equivalence or permission; verify official file hashes/version/license before public reuse."
+}

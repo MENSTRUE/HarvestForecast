@@ -1,0 +1,20 @@
+{
+  "train": {
+    "rows": 8444,
+    "year_start": 1990,
+    "year_end": 2005
+  },
+  "validation": {
+    "rows": 2331,
+    "year_start": 2006,
+    "year_end": 2009
+  },
+  "test": {
+    "rows": 2355,
+    "year_start": 2010,
+    "year_end": 2013
+  },
+  "area_crop_pairs_train_val_overlap": 581,
+  "area_crop_pairs_train_test_overlap": 580,
+  "note": "No row can share a year across splits. Area/crop identities can recur over years; geographic OOD validation not claimed."
+}

@@ -1,0 +1,15 @@
+{
+  "source_rows": 25932,
+  "invalid_rows_quarantined": 0,
+  "exact_duplicates_removed": 0,
+  "repeated_area_crop_year_keys": 3690,
+  "conflicting_target_keys_quarantined": 0,
+  "duplicate_area_crop_year_rows_removed_after_conflict_check": 12802,
+  "retained_rows": 13130,
+  "year_min": 1990,
+  "year_max": 2013,
+  "years": 23,
+  "countries_or_areas": 101,
+  "crops": 10,
+  "target_unit": "hg/ha"
+}

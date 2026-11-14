@@ -1,0 +1,14 @@
+{
+  "mae": 16393.50783840602,
+  "rmse": 30993.078389200196,
+  "r2": 0.8742591993483355,
+  "wape_percent": 20.156111055216666,
+  "champion": "random_forest_120",
+  "test_rows": 2355,
+  "test_years": [
+    2010,
+    2013
+  ],
+  "unit": "hg/ha",
+  "test_used_for_champion_selection": false
+}

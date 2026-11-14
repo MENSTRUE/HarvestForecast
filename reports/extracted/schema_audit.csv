@@ -1,0 +1,33 @@
+source,column,dtype,missing,non_null,unique
+df_yield_merged.csv,area,object,0,25932,101
+df_yield_merged.csv,year,int64,0,25932,23
+df_yield_merged.csv,average_rain_fall_mm_per_year,float64,0,25932,100
+df_yield_merged.csv,pesticides_tonnes,float64,0,25932,1673
+df_yield_merged.csv,avg_temp,float64,0,25932,1831
+df_yield_merged.csv,item,object,0,25932,10
+df_yield_merged.csv,value_hg_ha,int64,0,25932,11514
+yield.csv,Domain Code,object,0,56717,1
+yield.csv,Domain,object,0,56717,1
+yield.csv,Area Code,int64,0,56717,212
+yield.csv,Area,object,0,56717,212
+yield.csv,Element Code,int64,0,56717,1
+yield.csv,Element,object,0,56717,1
+yield.csv,Item Code,int64,0,56717,10
+yield.csv,Item,object,0,56717,10
+yield.csv,Year Code,int64,0,56717,56
+yield.csv,Year,int64,0,56717,56
+yield.csv,Unit,object,0,56717,1
+yield.csv,Value,int64,0,56717,36815
+rainfall.csv, Area,object,0,6727,217
+rainfall.csv,Year,int64,0,6727,31
+rainfall.csv,average_rain_fall_mm_per_year,object,774,5953,173
+temp.csv,year,int64,0,71311,271
+temp.csv,country,object,0,71311,137
+temp.csv,avg_temp,float64,2547,68764,3303
+pesticides.csv,Domain,object,0,4349,1
+pesticides.csv,Area,object,0,4349,168
+pesticides.csv,Element,object,0,4349,1
+pesticides.csv,Item,object,0,4349,1
+pesticides.csv,Year,int64,0,4349,27
+pesticides.csv,Unit,object,0,4349,1
+pesticides.csv,Value,float64,0,4349,2825

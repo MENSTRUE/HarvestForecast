@@ -1,0 +1,126 @@
+{
+  "project": "HarvestForecast",
+  "source_zip": "D:\\porto\\100 day\\day 37\\reports\\HarvestForecast_Day37_RESULTS.zip",
+  "files": [
+    {
+      "source": "HarvestForecast_Day37/artifact_manifest.json",
+      "destination": "reports\\extracted\\artifact_manifest.json",
+      "bytes": 3913
+    },
+    {
+      "source": "HarvestForecast_Day37/assets/examples/heldout_test_failure_cases.csv",
+      "destination": "reports\\extracted\\heldout_test_failure_cases.csv",
+      "bytes": 3186
+    },
+    {
+      "source": "HarvestForecast_Day37/assets/examples/validation_error_cases.csv",
+      "destination": "reports\\extracted\\validation_error_cases.csv",
+      "bytes": 2427
+    },
+    {
+      "source": "HarvestForecast_Day37/assets/plots/dataset_eda.png",
+      "destination": "assets\\plots\\dataset_eda.png",
+      "bytes": 100567
+    },
+    {
+      "source": "HarvestForecast_Day37/assets/plots/heldout_test_diagnostics.png",
+      "destination": "assets\\plots\\heldout_test_diagnostics.png",
+      "bytes": 113777
+    },
+    {
+      "source": "HarvestForecast_Day37/assets/plots/validation_scatter.png",
+      "destination": "assets\\plots\\validation_scatter.png",
+      "bytes": 87013
+    },
+    {
+      "source": "HarvestForecast_Day37/models/harvestforecast_champion.joblib",
+      "destination": "models\\harvestforecast_champion.joblib",
+      "bytes": 7532170
+    },
+    {
+      "source": "HarvestForecast_Day37/reports/MODEL_CARD.md",
+      "destination": "reports\\extracted\\MODEL_CARD.md",
+      "bytes": 1503
+    },
+    {
+      "source": "HarvestForecast_Day37/reports/dataset_audit.json",
+      "destination": "reports\\extracted\\dataset_audit.json",
+      "bytes": 398
+    },
+    {
+      "source": "HarvestForecast_Day37/reports/dataset_inventory.csv",
+      "destination": "reports\\extracted\\dataset_inventory.csv",
+      "bytes": 529
+    },
+    {
+      "source": "HarvestForecast_Day37/reports/dataset_provenance.json",
+      "destination": "reports\\extracted\\dataset_provenance.json",
+      "bytes": 1444
+    },
+    {
+      "source": "HarvestForecast_Day37/reports/feature_missingness.csv",
+      "destination": "reports\\extracted\\feature_missingness.csv",
+      "bytes": 130
+    },
+    {
+      "source": "HarvestForecast_Day37/reports/heldout_test_mae_by_crop.csv",
+      "destination": "reports\\extracted\\heldout_test_mae_by_crop.csv",
+      "bytes": 334
+    },
+    {
+      "source": "HarvestForecast_Day37/reports/heldout_test_mae_by_year.csv",
+      "destination": "reports\\extracted\\heldout_test_mae_by_year.csv",
+      "bytes": 122
+    },
+    {
+      "source": "HarvestForecast_Day37/reports/heldout_test_metrics.json",
+      "destination": "reports\\extracted\\heldout_test_metrics.json",
+      "bytes": 288
+    },
+    {
+      "source": "HarvestForecast_Day37/reports/model_selection.json",
+      "destination": "reports\\extracted\\model_selection.json",
+      "bytes": 247
+    },
+    {
+      "source": "HarvestForecast_Day37/reports/run_config.json",
+      "destination": "reports\\extracted\\run_config.json",
+      "bytes": 1272
+    },
+    {
+      "source": "HarvestForecast_Day37/reports/schema_audit.csv",
+      "destination": "reports\\extracted\\schema_audit.csv",
+      "bytes": 1338
+    },
+    {
+      "source": "HarvestForecast_Day37/reports/split_audit.json",
+      "destination": "reports\\extracted\\split_audit.json",
+      "bytes": 472
+    },
+    {
+      "source": "HarvestForecast_Day37/reports/test_split_manifest.csv",
+      "destination": "reports\\extracted\\test_split_manifest.csv",
+      "bytes": 164873
+    },
+    {
+      "source": "HarvestForecast_Day37/reports/train_split_manifest.csv",
+      "destination": "reports\\extracted\\train_split_manifest.csv",
+      "bytes": 591103
+    },
+    {
+      "source": "HarvestForecast_Day37/reports/validation_leaderboard.csv",
+      "destination": "reports\\extracted\\validation_leaderboard.csv",
+      "bytes": 807
+    },
+    {
+      "source": "HarvestForecast_Day37/reports/validation_mae_by_crop.csv",
+      "destination": "reports\\extracted\\validation_mae_by_crop.csv",
+      "bytes": 333
+    },
+    {
+      "source": "HarvestForecast_Day37/reports/validation_split_manifest.csv",
+      "destination": "reports\\extracted\\validation_split_manifest.csv",
+      "bytes": 163193
+    }
+  ]
+}

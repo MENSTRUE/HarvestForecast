@@ -1,0 +1,121 @@
+{
+  "project": "HarvestForecast",
+  "day": 37,
+  "files": [
+    {
+      "path": "assets/examples/heldout_test_failure_cases.csv",
+      "bytes": 3186,
+      "sha256": "471c03a5e081b91168df2e6d2122718a840e285ffd14e527948405f048cdf1b5"
+    },
+    {
+      "path": "assets/examples/validation_error_cases.csv",
+      "bytes": 2427,
+      "sha256": "e084263aeed2fe65740b933bf51d880ee6486a235e1f852ead9799f08fd98c56"
+    },
+    {
+      "path": "assets/plots/dataset_eda.png",
+      "bytes": 100567,
+      "sha256": "9ef25dfc67207e9d90cc2117f9f51a17ce28cf7da2d27c97e6039316cadaa156"
+    },
+    {
+      "path": "assets/plots/heldout_test_diagnostics.png",
+      "bytes": 113777,
+      "sha256": "374b6fe28780ff8c0c56eb776237ec44b72338ae9e955575e00e5b05bac72b9d"
+    },
+    {
+      "path": "assets/plots/validation_scatter.png",
+      "bytes": 87013,
+      "sha256": "6fa5d96b6718db497889c4ee986108ab4c8ac8b120c6ac68b65e7a036b3888b7"
+    },
+    {
+      "path": "models/harvestforecast_champion.joblib",
+      "bytes": 7532170,
+      "sha256": "2ac6e5aca35241065cfb93f78f70181fad740aa8dfc6e7c1f237233b528611f0"
+    },
+    {
+      "path": "reports/MODEL_CARD.md",
+      "bytes": 1503,
+      "sha256": "df43d051ef1557ae624de3ef3b10b436f0f9ce77ba577dde05626bb0d7c23903"
+    },
+    {
+      "path": "reports/dataset_audit.json",
+      "bytes": 398,
+      "sha256": "cdde5da55daa14339b0f461b290aed35b64443ed850eb410faa85e36d580609f"
+    },
+    {
+      "path": "reports/dataset_inventory.csv",
+      "bytes": 529,
+      "sha256": "3f26902aeae57b97419282e036255814b41924fbd81e44edf6d183e042d902b0"
+    },
+    {
+      "path": "reports/dataset_provenance.json",
+      "bytes": 1444,
+      "sha256": "d640f5006a4f0e9f56b1c5f1f1a85862569143d3effad987963c84cbe758ffa7"
+    },
+    {
+      "path": "reports/feature_missingness.csv",
+      "bytes": 130,
+      "sha256": "f1716d783689ed63c964d8d71ab2e30fef667d2d6fcb5a3c0ae7e37223d55ff1"
+    },
+    {
+      "path": "reports/heldout_test_mae_by_crop.csv",
+      "bytes": 334,
+      "sha256": "845a358708cc4ffee024c093664c381262c3463673a2c35d47b4ae81a822439e"
+    },
+    {
+      "path": "reports/heldout_test_mae_by_year.csv",
+      "bytes": 122,
+      "sha256": "1d22718e0e003255b893e6f016b2772786ea7b620675b170fa0968776d18d73a"
+    },
+    {
+      "path": "reports/heldout_test_metrics.json",
+      "bytes": 288,
+      "sha256": "b5fc42550dd49df0bd27318c139b4c658846a5242a48ac0ab7263d2982fbddfb"
+    },
+    {
+      "path": "reports/model_selection.json",
+      "bytes": 247,
+      "sha256": "f2c9a95338055a97b8128aa65e679f44a933fd7f014a36e8ec3efd9e57926213"
+    },
+    {
+      "path": "reports/run_config.json",
+      "bytes": 1272,
+      "sha256": "8bb56f6ef3c6225174f67f3f2bdae5e1b7dcd43c62ecc9d4aee7042bad13a251"
+    },
+    {
+      "path": "reports/schema_audit.csv",
+      "bytes": 1338,
+      "sha256": "104709595d71f3a45a5c42146166103197b81130482507b76caa30d8f5b7750f"
+    },
+    {
+      "path": "reports/split_audit.json",
+      "bytes": 472,
+      "sha256": "3d1b9865ce4f44218c8f34e1a1d78d5e9357dcf08b5f2ea09daf4fb11a2a4151"
+    },
+    {
+      "path": "reports/test_split_manifest.csv",
+      "bytes": 164873,
+      "sha256": "cfe52fa5d3fda7beb6a771f216ba0c4a44cb71a8a29b077f02ae1d43d4cf2f3d"
+    },
+    {
+      "path": "reports/train_split_manifest.csv",
+      "bytes": 591103,
+      "sha256": "70836be92e5d737289a16fcecd79179d93bd7956c6927b5843c57de1d47f2296"
+    },
+    {
+      "path": "reports/validation_leaderboard.csv",
+      "bytes": 807,
+      "sha256": "05b535c107a3eafb8afc2e1b954eb31698eaebc1d0863a8593944a08acdf1966"
+    },
+    {
+      "path": "reports/validation_mae_by_crop.csv",
+      "bytes": 333,
+      "sha256": "90bf3c06cc893ffa28352c3dcb5ea608b3c42d2fe6fd66b322181803e18164ae"
+    },
+    {
+      "path": "reports/validation_split_manifest.csv",
+      "bytes": 163193,
+      "sha256": "77919bb568e0a6751c04add1cd9e6339b8c63437ca22d012cf290bf59fc1056d"
+    }
+  ]
+}

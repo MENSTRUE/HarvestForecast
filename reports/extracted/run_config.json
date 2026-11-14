@@ -1,0 +1,38 @@
+{
+  "project": "HarvestForecast",
+  "day": 37,
+  "seed": 42,
+  "input_root": "/kaggle/input/datasets/wafabila/harvestforecast-dataset",
+  "output_root": "/kaggle/working/HarvestForecast_Day37",
+  "target_selection": "verified yield per area only",
+  "split": "strict ascending calendar years",
+  "model_selection": "validation MAE only",
+  "test_selection": false,
+  "intended_use": "historical area/crop yield benchmarking; prospective availability unverified",
+  "input_availability": "retrospective unless weather/pesticide fields known at prediction time",
+  "target": "value_hg_ha",
+  "target_unit": "hg/ha",
+  "year": "year",
+  "area": "area",
+  "crop": "item",
+  "blocked_columns": [],
+  "features": [
+    "area",
+    "item",
+    "year",
+    "average_rain_fall_mm_per_year",
+    "pesticides_tonnes",
+    "avg_temp"
+  ],
+  "feature_temporal_warning": "Weather, annual precipitation, pesticides may only be known after harvest; this benchmark is retrospective, not pre-season operational.",
+  "champion": "random_forest_120",
+  "feature_columns": [
+    "area",
+    "item",
+    "year",
+    "average_rain_fall_mm_per_year",
+    "pesticides_tonnes",
+    "avg_temp"
+  ],
+  "input_data_path": "/kaggle/input/datasets/wafabila/harvestforecast-dataset/df_yield_merged.csv"
+}

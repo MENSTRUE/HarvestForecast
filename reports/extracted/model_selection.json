@@ -1,0 +1,8 @@
+{
+  "champion": "random_forest_120",
+  "selection_metric": "validation_mae",
+  "lower_is_better": true,
+  "validation_mae": 11232.150701067401,
+  "test_used_to_select_model": false,
+  "selection_timestamp_utc": "2026-11-09T06:44:12.931205+00:00"
+}
