@@ -1,0 +1,3 @@
+# Backend coding-agent policy
+
+Follow the root [AGENTS.md](../AGENTS.md). Keep the public API contract in [`app/main.py`](app/main.py) synchronized with the saved model's exact six features and target unit. Never unpickle user-submitted files; use only trusted local artifacts. Do not fake predictions or quietly default missing inputs. Preserve typed validation and explicit HTTP error responses. Test health, metadata, valid and invalid prediction requests before claiming readiness. Never invent a public deployment status. For changes to model loading, inspect the dictionary layout (`kind`, `model`, `features`, `target`, `unit`) and compare `feature_names_in_` to `reports/extracted/run_config.json`. Document any request/response changes in both languages.

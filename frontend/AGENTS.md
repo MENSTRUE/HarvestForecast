@@ -1,0 +1,3 @@
+# Frontend coding-agent policy
+
+Follow [root AGENTS](../AGENTS.md). Preserve React + TypeScript + Vite architecture and existing file names. No fake yield figures, fabricated confidence scores, or implied pre-season forecasts. Keep values and payload keys synchronized with backend `PredictionRequest`. Display units, show API failures and model-unavailable states transparently; require all six fields. Run `npm run build` and check mobile widths before claiming UI completion. Avoid adding third-party services, tracking, credentials or datasets without explicit user approval. Update English and Indonesian documentation together when behavior changes.
